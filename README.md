@@ -1,6 +1,6 @@
 # 50Ω Microstrip Transmission Line Design at 1.2 GHz
 
-**King Abdulaziz University | EE424 | 2024**
+**King Abdulaziz University | EE424 | 2025**
 
 ## Overview
 Designed and simulated a 50-ohm microstrip transmission line operating at 1.2 GHz. The design utilizes an FR4 substrate with a dielectric constant ($\epsilon_r$) of 4.3 and a thickness of 0.7 mm, targeting an electrical length of $\pi/4$.
